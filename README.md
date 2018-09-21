@@ -1,1 +1,3 @@
-# gateway
+# Gateway
+
+#### A Zen Subtheme
